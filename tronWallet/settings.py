@@ -15,7 +15,7 @@ SECRET_KEY = 'k5ukjp%g9p7jv473+!w4pp!3#v*sarwdmnoe4qcrnb+ho=07d)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['tronwalletapp.herokuapp.com']
 
 
 # Application definition
