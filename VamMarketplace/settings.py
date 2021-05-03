@@ -36,7 +36,8 @@ ALLOWED_HOSTS = [
     '172.31.8.140',
     'muxxie.loca.lt',
     'dreamclass-backend-alpha-dev.us-west-2.elasticbeanstalk.com',
-    'dreamclass-alpha0.eba-c36wz5zg.us-west-2.elasticbeanstalk.com'
+    'dreamclass-alpha0.eba-c36wz5zg.us-west-2.elasticbeanstalk.com',
+    'tronwalletapp.herokuapp.com'
 ]
 
 
