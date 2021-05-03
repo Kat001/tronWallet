@@ -1,1 +1,1 @@
-web: gunicorn tronWallet.wsgi
+web: gunicorn VamMarketplace.wsgi
